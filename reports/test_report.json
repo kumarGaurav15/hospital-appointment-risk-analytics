@@ -1,0 +1,18 @@
+{
+    "project": "Hospital Appointment No-Show Prediction",
+    "api_tests": {
+        "health_endpoint": "Passed",
+        "schema_endpoint": "Passed",
+        "valid_prediction": "Passed",
+        "missing_feature_validation": "Passed",
+        "invalid_numeric_validation": "Passed",
+        "prediction_consistency": "Passed",
+        "artifact_verification": "Passed",
+        "invalid_json_validation": "Passed"
+    },
+    "model": "Logistic Regression",
+    "feature_count": 14,
+    "decision_threshold": 0.15000000000000002,
+    "human_review_required": true,
+    "dataset_type": "Synthetic"
+}
